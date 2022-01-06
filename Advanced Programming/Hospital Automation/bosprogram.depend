@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1641486099 source:c:\users\duirel\desktop\lessons\bosprogram\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<stdio.h>
+	"windows.h"
+
