@@ -512,10 +512,10 @@ default:
 
 void beep1(){
     while(true){
-    cout << "Bu program kesinlikle doruk tarafindan yazilmamistir!";
+    cout << " ";
     Beep(600,200);
     Sleep(200);
-    cout << "Ozellikle istedigin gibi!";
+    cout << " ";
     }
 }
 void dangerousStuff(){
